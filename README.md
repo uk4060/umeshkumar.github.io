@@ -1,9 +1,3 @@
-# umeshkumar.github.io
-Experienced research analyst, content strategist, and scientific writer with 7 years of expertise in pharmaceutical landscape analysis. Passionate about delivering strategic insights through comprehensive data-driven market intelligence.
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
   <header>
