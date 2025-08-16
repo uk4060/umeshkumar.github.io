@@ -1,85 +1,9 @@
 # umeshkumar.github.io
 Experienced research analyst, content strategist, and scientific writer with 7 years of expertise in pharmaceutical landscape analysis. Passionate about delivering strategic insights through comprehensive data-driven market intelligence.
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Umesh Kumar – Portfolio</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: #121212;
-      color: #f5f5f5;
-      line-height: 1.6;
-    }
-    header {
-      background: #1f1f1f;
-      padding: 20px;
-      text-align: center;
-      border-bottom: 2px solid #333;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.4em;
-      color: #00bcd4;
-    }
-    header p {
-      margin: 5px 0;
-      font-size: 1.1em;
-    }
-    nav {
-      margin-top: 10px;
-    }
-    nav a {
-      margin: 0 15px;
-      text-decoration: none;
-      color: #f5f5f5;
-      font-weight: bold;
-    }
-    nav a:hover {
-      color: #00bcd4;
-    }
-    section {
-      padding: 50px 20px;
-      max-width: 1000px;
-      margin: auto;
-    }
-    h2 {
-      color: #00bcd4;
-      border-bottom: 2px solid #00bcd4;
-      padding-bottom: 10px;
-    }
-    .skills span {
-      display: inline-block;
-      margin: 8px;
-      padding: 8px 15px;
-      background: #1f1f1f;
-      border-radius: 20px;
-      border: 1px solid #00bcd4;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    footer {
-      background: #1f1f1f;
-      padding: 15px;
-      text-align: center;
-      border-top: 2px solid #333;
-    }
-    footer a {
-      color: #00bcd4;
-      text-decoration: none;
-    }
-    iframe {
-      width: 100%;
-      height: 400px;
-      border: none;
-      margin-top: 20px;
-      border-radius: 10px;
-    }
-  </style>
 </head>
 <body>
   <header>
